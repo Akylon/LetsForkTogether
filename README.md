@@ -1,2 +1,3 @@
 # LetsForkTogether
-Practical appication of git forks
+Practical appication of git forks.
+![image](forkfight.jpg)
